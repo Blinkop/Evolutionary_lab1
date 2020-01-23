@@ -1,1 +1,1 @@
-# First lab of evolutionary computing course
+# First and second labs of evolutionary computing course
